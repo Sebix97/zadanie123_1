@@ -5,5 +5,6 @@ int main()
 {
     printf("Hello world!\n");
     printf("Sebastian Lewandowski\n");
+    printf("Weronika Cha³as\n");
     return 0;
 }
